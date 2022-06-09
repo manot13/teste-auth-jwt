@@ -28,6 +28,4 @@ export class HeaderComponent implements OnInit {
     this.router.navigate(['/home']);
   }
 
-  //1:25:58
-
 }
